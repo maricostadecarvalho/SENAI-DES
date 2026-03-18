@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: #9d4aa8;
+    color: aliceblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    background: #d7a6dd;
+    color: white;
+    border-radius: 4px
+}
+.botao{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHe_l51HB0wESI17wYib45c_MysH6AzhVSQ&s");
+    background-size: cover;
+}
